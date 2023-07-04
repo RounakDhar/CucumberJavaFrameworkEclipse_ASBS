@@ -1,7 +1,12 @@
 # CucumberJavaFrameworkEclipse_ASBS
 
 
-Add the Following Dependancies in POM.XML:
+**NOTES:**
+1. For Dependancy Injection "Pico Container" Dependancy Plugin is Required.
+
+
+==========================================================================================================================================
+<-->Add the Following Dependancies in POM.XML:
 <project xmlns="http://maven.apache.org/POM/4.0.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
